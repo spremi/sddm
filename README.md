@@ -21,6 +21,10 @@ They can be used as a starting point for new themes.
 
 ![sample screenshot](https://raw.github.com/sddm/sddm/master/src/greeter/theme/maui.jpg)
 
+### With Hindi translations
+
+![Sample screenshot - hi_IN](https://raw.githubusercontent.com/spremi/sddm/theme-maya/data/themes/maya/screenshots/hi_IN.png)
+
 ## VIDEOS
 
 * [Video background](https://www.youtube.com/watch?v=kKwz2FQcE3c)
